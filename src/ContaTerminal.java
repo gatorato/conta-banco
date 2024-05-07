@@ -7,7 +7,7 @@ public class ContaTerminal {
         String agencia;
         String nomeCliente;
         double saldo;
-        //Utilização da classe scanner
+        //Utilização da classe scanner - atualização
         Scanner entradaDados = new Scanner(System.in);
 
         //Dialogo com o usuário
